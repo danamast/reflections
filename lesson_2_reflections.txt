@@ -18,3 +18,9 @@ By validating the status with the git status command every time a change is save
 
 ++
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If there is a version that you want to keep ready for demonstration, for example, by placing it in a branch you could continue to work a other branches to further development but still have the one example ready for demonstration.
+
+++
+
