@@ -24,3 +24,9 @@ If there is a version that you want to keep ready for demonstration, for example
 
 ++
 
+How do the diagrams help you visualize the branch structure?
+
+They show not only where the common point is between branches, they show which commits are in which branch, and, importantly they show what is left dangling...
+
+++
+
