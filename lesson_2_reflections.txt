@@ -12,4 +12,9 @@ The staging area is like an intermediate area where all necessary files for a co
 
 ++
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By validating the status with the git status command every time a change is saved.
+
+++
 
