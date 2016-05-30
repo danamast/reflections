@@ -30,3 +30,11 @@ They show not only where the common point is between branches, they show which c
 
 ++
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging automatically follows the logic that a programmer would use to combine two branches.  This significantly helps in development since GIT will help manage these sometimes difficult process of merging two files from different developers.   The graphic diagram helps visualize the concept of paths or branch in development and show how the process has worked.  
+
+++
+
+
+
