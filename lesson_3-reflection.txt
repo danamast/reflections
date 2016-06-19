@@ -1,0 +1,7 @@
++
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+If work is being done on several computer (locations) then a web-based common location permits the file to be accessed from any of the computer.  Additionally, and probably most importantly, a remote repsoitory permits multiple developed to easily be working on common application or code set.  The remote repository can be accessed by any team members.
+
++
