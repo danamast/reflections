@@ -1,7 +1,13 @@
-+
+++
 
 When would you want to use a remote repository rather than keeping all your work local?
 
 If work is being done on several computer (locations) then a web-based common location permits the file to be accessed from any of the computer.  Additionally, and probably most importantly, a remote repsoitory permits multiple developed to easily be working on common application or code set.  The remote repository can be accessed by any team members.
 
-+
+++
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If you are working locally, you may not be sure that changes that are on GitHub are what you want.  The resevers is also true, you may not want to push something automatically without thinking whether its the right thing to do.  
+
+++
