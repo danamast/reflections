@@ -11,3 +11,7 @@ Why might you want to always pull changes manually rather than having Git automa
 If you are working locally, you may not be sure that changes that are on GitHub are what you want.  The resevers is also true, you may not want to push something automatically without thinking whether its the right thing to do.  
 
 ++
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It gives a reference if or when changes are made by others.  It also permits working with the latest sync'd version if you are going to be off-line for a period of time while working on the software.
