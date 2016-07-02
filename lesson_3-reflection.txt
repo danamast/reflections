@@ -29,3 +29,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 It would be easier because you don't have to keep track of what's happening with version changes.  It would be harder because you don't have any capability to track where changes have occured
 
 ++
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have
+
+If expimentation is being done with the code that may not be used in the final version or if there is a special version that is being created or if the version is moving in a different direction.  
+
+++
+
+
